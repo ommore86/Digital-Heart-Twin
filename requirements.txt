@@ -3,3 +3,4 @@ joblib
 pandas
 numpy
 unidecode
+imbalanced-learn
